@@ -24,8 +24,3 @@ let's toxic bro!
 ## Credit
 
 Made with 💖 by [Da_aK](https://github.com/DarkavixInTheHouse)
-
-## Donate
-[on Truemoney Wallet](https://tmn.app.link/OlFK3AByCeb)
-or
-![Donate](https://media.discordapp.net/attachments/680320002666397705/820660121163006002/USER_SCOPED_TEMP_DATA_orca-image--1126638565.jpeg)
